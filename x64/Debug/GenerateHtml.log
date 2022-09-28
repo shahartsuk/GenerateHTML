@@ -1,0 +1,6 @@
+﻿  LastError.c
+C:\Users\97254\source\repos\GenerateHtml\GenerateHtml\LastError.c(7,19): warning C4142: 'GetLastError': benign redefinition of type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\errhandlingapi.h(89): message : see declaration of 'GetLastError'
+C:\Users\97254\source\repos\GenerateHtml\GenerateHtml\LastError.c(7,19): warning C4273: 'GetLastError': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\errhandlingapi.h(89,1): message : see previous definition of 'GetLastError'
+  GenerateHtml.vcxproj -> C:\Users\97254\source\repos\GenerateHtml\x64\Debug\GenerateHtml.exe
